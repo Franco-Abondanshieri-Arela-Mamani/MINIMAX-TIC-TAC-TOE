@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tic Tac Toe con Algoritmo Minimax
 Un juego moderno de Tic Tac Toe implementado con HTML, CSS y JavaScript vanilla, que incluye un algoritmo Minimax para jugar contra la IA.
 Características
@@ -58,3 +59,6 @@ HTML5
 CSS3 (Flexbox, Grid, Animaciones)
 JavaScript ES6+
 No se utilizan librerías externas
+=======
+# MINIMAX-TIC-TAC-TOE
+>>>>>>> 30a37fd825447b0de709919b9ee8f87e32b9c6e9
